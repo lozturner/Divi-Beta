@@ -10,6 +10,6 @@ https://github.com/elegantthemes/Divi-Beta/issues
 
 ## Accessing The Beta
 
-In order to access the beta, you must first install the Elegant Themes Updater plugin along with the Elegant Themes Beta Tester plugin. This plugins, along with additional information about the current beta can be found here:
+In order to access the beta, you must first install the Elegant Themes Updater plugin along with the Elegant Themes Beta Tester plugin. These plugins, along with additional information about the current beta can be found here:
 
 https://www.elegantthemes.com/members-area/beta-testers/
