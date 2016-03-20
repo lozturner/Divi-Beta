@@ -28,7 +28,7 @@ Replace this with a description of the issue you are reporting. Be sure to expla
 
 #### Before submitting your issue, please ensure the following:
 
-- [ ] You searched this Github repo for the issue and found no existing reports of the issue that are open.
+- [ ] You searched this Github repo for the issue and found no open reports of the issue.
 - [ ] You properly formated the issue title - eg. `Scope :: One sentence to describe the issue`.
 - [ ] You have provided a detailed description of the issue.
 - [ ] You have provided any/all relevant information: screenshot, screencast, page URL.
