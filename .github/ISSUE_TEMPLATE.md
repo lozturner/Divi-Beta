@@ -1,6 +1,6 @@
 ### Problem:
 
-Replace this with a description of the issue you are reporting. Be sure to explain expected results vs. actual results when it might not be obvious to those who will read your report. Under the "Additional Information" section below, it is especially helpful if you include a video screencast of the error occuring along with a link to download the current Divi Builder layout you were working on in the screencast. You can export the layout using the Divi Portability system and paste a link to where we can download the .JSON file.
+Replace this with a description of the issue you are reporting. Be sure to explain expected results vs. actual results when it might not be obvious to those who will read your report. Under the "Additional Information" section below, it is especially helpful if you include a video screen-cast of the error occurring along with a link to download the current Divi Builder layout you were working on in the screen-cast. You can export the layout using the Divi Portability system and paste a link to where we can download the .JSON file.
 
 
 ### Steps To Reproduce:
@@ -22,7 +22,7 @@ Replace this with a description of the issue you are reporting. Be sure to expla
 
 **Screen Resolution**:
 
-**Screenshots/Screencast**:
+**Screen-shot or Screen-cast**:
 
 **Link To Download Layout JOSN File**:
 
