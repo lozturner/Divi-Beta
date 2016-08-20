@@ -13,3 +13,7 @@ https://github.com/elegantthemes/Divi-Beta/issues
 In order to access the beta, you must first install the Elegant Themes Updater plugin along with the Elegant Themes Beta Tester plugin. These plugins, along with additional information about the current beta can be found here:
 
 https://www.elegantthemes.com/members-area/beta-testers/
+
+## How To Export Divi Builder Layouts
+
+Check out [this page](http://www.elegantthemes.com/gallery/divi/documentation/library-import/) of Divi's Documentation for details on how you can export builder layouts to include them in your bug report.
