@@ -16,4 +16,4 @@ https://www.elegantthemes.com/members-area/beta-testers/
 
 ## How To Export Divi Builder Layouts
 
-Check out [this page](http://www.elegantthemes.com/gallery/divi/documentation/library-import/) of Divi's Documentation for details on how you can export builder layouts to include them in your bug report.
+Check out [this page](http://www.elegantthemes.com/gallery/divi/documentation/library-import/) of Divi's Documentation for details on how to export builder layouts for inclusion in your bug report.
